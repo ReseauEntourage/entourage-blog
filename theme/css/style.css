@@ -632,7 +632,8 @@ strong {
 	background-size: 120px;
 }
 
-#nav-menu li.menu-item-3740:before {
+#nav-menu li.menu-item-3740:before,
+#nav-menu li.menu-item-6298:before {
 	background-image: url(../img/flyers.png);
     background-size: 80px;
     background-position: top center;
